@@ -72,4 +72,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 ## 📄 License
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is [MIT](https://github.com/Skydope/cors-proxy?tab=MIT-1-ov-file) licensed.
