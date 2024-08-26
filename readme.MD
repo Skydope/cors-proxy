@@ -1,4 +1,5 @@
 # 🌐 CORS Proxy Server
+![Logo](/logo.jpg "Logo CORS Proxy")
 
 ## 📋 Overview
 
