@@ -1,9 +1,9 @@
-# 🌐 CORS Proxy Server
+# 🌐 CORS Proxy Server Bypass (CORS Anywhere) 
 ![Logo](/logo.jpg "Logo CORS Proxy")
 
 ## 📋 Overview
 
-This is a simple CORS (Cross-Origin Resource Sharing) proxy server built with Express.js. It allows you to bypass CORS restrictions by proxying requests through this server.
+This is a simple CORS (Cross-Origin Resource Sharing) proxy server built with Express.js. It allows you to bypass CORS restrictions by proxying requests through this server. 
 
 ## 🚀 Features
 
@@ -16,7 +16,7 @@ This is a simple CORS (Cross-Origin Resource Sharing) proxy server built with Ex
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/cors-proxy.git
+   git clone https://github.com/skydope/cors-proxy.git
    ```
 
 2. Navigate to the project directory:
@@ -49,7 +49,7 @@ Query Parameters:
 
 Example:
 ```
-http://localhost:3000/proxy?url=https://api.example.com/data
+http://localhost:3000/proxy?url=https://api.ipify.org/?format=json
 ```
 
 ## 💻 Code Explanation
@@ -68,7 +68,7 @@ http://localhost:3000/proxy?url=https://api.example.com/data
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/cors-proxy/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/skydope/cors-proxy/issues).
 
 ## 📄 License
 
